@@ -1,0 +1,11 @@
+C:\VisualStudioProjects\Quizer\bin\Debug\netcoreapp2.0\Quizer.deps.json
+C:\VisualStudioProjects\Quizer\bin\Debug\netcoreapp2.0\Quizer.runtimeconfig.json
+C:\VisualStudioProjects\Quizer\bin\Debug\netcoreapp2.0\Quizer.runtimeconfig.dev.json
+C:\VisualStudioProjects\Quizer\bin\Debug\netcoreapp2.0\Quizer.dll
+C:\VisualStudioProjects\Quizer\bin\Debug\netcoreapp2.0\Quizer.pdb
+C:\VisualStudioProjects\Quizer\obj\Debug\netcoreapp2.0\Quizer.csprojResolveAssemblyReference.cache
+C:\VisualStudioProjects\Quizer\obj\Debug\netcoreapp2.0\Quizer.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\Quizer\obj\Debug\netcoreapp2.0\Quizer.AssemblyInfoInputs.cache
+C:\VisualStudioProjects\Quizer\obj\Debug\netcoreapp2.0\Quizer.AssemblyInfo.cs
+C:\VisualStudioProjects\Quizer\obj\Debug\netcoreapp2.0\Quizer.dll
+C:\VisualStudioProjects\Quizer\obj\Debug\netcoreapp2.0\Quizer.pdb
