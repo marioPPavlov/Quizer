@@ -5,14 +5,19 @@ using Quizer.Data;
 using Mapster;
 using Quizer.ViewModels;
 using Quizer.Data.Models;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.Extensions.Configuration;
 
 namespace Quizer.Controllers
 {
     public class QuestionController : BaseApiController
     {
         #region Constructor
-        public QuestionController(ApplicationDbContext context)
-            : base(context) { }
+        public QuestionController(ApplicationDbContext context,
+                                RoleManager<IdentityRole> roleManager,
+                                UserManager<ApplicationUser> userManager,
+                                IConfiguration configuration)
+            : base(context, roleManager, userManager, configuration) { }
         #endregion
 
         #region RESTful conventions methods
